@@ -1,3 +1,6 @@
 This is a test file.
 THis file has been edited.
 Another modification.
+
+
+This is now a Bayesian txt file.
