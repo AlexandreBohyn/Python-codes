@@ -4,3 +4,4 @@ Another modification.
 We add a fourth line of code.
 
 This is now a Bayesian txt file.
+Frequentist is also added now.
